@@ -1,9 +1,11 @@
 # Treinetic Remote Storage - PHP SDK
-
+Treinetic remote storage (TRS) is a highly available cloud storage services. We provide 99.9% up time and multi regional backups. TRS provide sophisticated security compliances and it is optimized for high speed data delivery. For more details contact us via info@treinetic.com
 
 # Installing
 
-
+```sh 
+composer require treinetic/remote-storage
+```
 
 # Usage
 
